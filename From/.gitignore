@@ -1,0 +1,12 @@
+.dropbox
+.DS_Store
+.vs
+/node_modules
+/website/**/modern-monastery*.js
+/website/**/modern-monastery*.js.map
+/editor/*.js
+/editor/*.js.map
+/**/*.ts.bak
+/**/*.html.bak
+/build
+/to_deploy/

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modern Monastery</title>
+    <meta name="format-detection" content="email=no, address=no, telephone=no" />
+    <meta property="og:image" content="/icon_maskable_192.png" />
+</head>
+<body>
+    <!-- Test for browser support to load app. -->
+    <script type="text/javascript">
+        function browserHasRequiredFeatures() {
+            try { eval("for (const a of []);"); }
+            catch (_) { return false; }
+            return true;
+        }
+
+        if (browserHasRequiredFeatures()) {
+            const root = document.createElement("script");
+            root.setAttribute("type", "text/javascript");
+            root.setAttribute("src", "modern-monastery.min.js");
+            document.head.appendChild(root);
+        } else {
+            document.getElementById("monasteryContainer").innerHTML = "Javascript is off, so this app can't work. Check permissions, try turning it on or update/switch your browser.";
+        }
+    </script>
+</body>
+</html>
