@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 454 438" width="454" height="438"><defs></defs><g transform="matrix(1,0,0,1,-29,-37.415180055)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456 457" width="456" height="457"><defs><linearGradient id="8348878094323164310" x1="234.00000000000003" y1="278.5" x2="479.1305774480205" y2="278.5" gradientTransform="matrix(0.004079458,0,0,0.002531646,-0.954593272,-0.205063291)"><stop stop-color="#ffffff" /><stop offset="1" stop-color="#ffd683" /></linearGradient></defs><g transform="matrix(1,0,0,1,-27.9999,-19)">
 <g>
 	<g>
-		<path d="M232,315 C197,256 27,274 27,274" transform="matrix(1,0,0,1,2,161)" fill="none" stroke="#000000" stroke-width="15"/>
-	</g>
-	<g>
-		<path d="M17,460 C17,460 17,64.99999999999994 17,64.99999999999994" transform="matrix(1,0,0,1,12,-25)" fill="none" stroke="#000000" stroke-width="10"/>
-	</g>
-	<g>
-		<path d="M232,315 C197,256 27,274 27,274" transform="matrix(1,0,0,1,2,-234)" fill="none" stroke="#000000" stroke-width="5"/>
+		<path d="M234.00000000000003,81 L479.1305774480205,81 L479.1305774480205,476 L234.00000000000003,476 L234.00000000000003,81 Z" fill="url('#8348878094323164310')"/>
 	</g>
 	<g>
 		<path d="M222,476 C222,476 222,81 222,81" transform="matrix(1,0,0,1,12,0)" fill="none" stroke="#000000" stroke-width="10"/>
@@ -38,5 +32,14 @@
 	</g>
 	<g>
 		<path d="M255.2,363.2 C255.2,363.2 317.64613679003696,363.2 317.64613679003696,363.2" transform="matrix(-1,0,0,1,699.353449932,-181)" fill="none" stroke="#000000" stroke-width="4"/>
+	</g>
+	<g>
+		<path d="" fill="#fefefe" stroke="#000000" stroke-width="2"/>
+	</g>
+	<g>
+		<path d="" fill="#fefefe" stroke="#000000" stroke-width="2"/>
+	</g>
+	<g>
+		<path d="M487,476 C487,476 465.26825517911465,431.2164094334755 256,432.41518005540166 C256,432.41518005540166 256,37.41518005540166 256,37.41518005540166 C256,37.41518005540166 467,26.999999999999986 488,98 C487.99999999999994,97.99999999999996 487,476 487,476 Z" transform="matrix(0.88793125,0,0,1.040716081,-199.3105,-19.380854673)" fill="#fefefe" stroke="#000000" stroke-width="5"/>
 	</g>
 </g></g></svg>
